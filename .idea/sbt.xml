@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/tools/JCA/sbt-0.13.13/bin/sbt-launch.jar" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home" />
+    <option name="vmParameters" value="-Dsbt.override.build.repos=true -Dsbt.repository.config=/Users/jobinantony/code-repo/tooling.repositories/repositories-dev -Dfile.encoding=UTF8 -XX:MaxPermSize=256m -Xms512m -Xmx1g -XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC" />
+  </component>
+</project>
